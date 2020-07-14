@@ -8,7 +8,7 @@ This is a terraform provider for managing resources on your RouterOS device. It 
 
 ## Examples
 
-See the [pages directory](javascript:alert`1`) for the documentation on each resource.
+See the [pages directory](javascript:alert`1`) for the documentation on each resource.test
 
 ## Contributing
 
